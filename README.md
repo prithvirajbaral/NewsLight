@@ -1,7 +1,55 @@
-# Getting Started with Create React App
+A node interface for NewsAPI.
+
+[![npm](https://img.shields.io/npm/v/newsapi.svg)](https://www.npmjs.com/package/newsapi)
+[![npm](https://img.shields.io/npm/dt/newsapi.svg)](https://www.npmjs.com/package/newsapi)
+[![Build Status](https://travis-ci.org/bzarras/newsapi.svg?branch=master)](https://travis-ci.org/bzarras/newsapi)
+
+Up-to-date news headlines and metadata in JSON from 70+ popular news sites. Powered by NewsAPI.org.
+
+You will need an API key from [https://newsapi.org](https://newsapi.org).
+
+Please look at their [documentation](https://newsapi.org/docs) to see how to use the API. The convenience functions provided by this module
+simply pass their options along as querystring parameters to the REST API, so the [documentation](https://newsapi.org/docs)
+is totally valid. There are some usage examples below to see how these options should be passed in.
+
+If you use this in a project, add a 'powered by' attribution link back to NewsAPI.org# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (41)](https://user-images.githubusercontent.com/67950176/192090165-1c55d042-aca5-4f1f-af99-46a9db76d3ad.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/67950176/192090169-555fbb57-d137-4f1a-8f1c-9c5b86ffb4c8.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/67950176/192090174-dd844f80-7ef6-46f7-a9ac-853da39cb652.png)
+# react-top-loading-bar
 
+>
+
+[![NPM](https://img.shields.io/npm/v/react-top-loading-bar.svg)](https://www.npmjs.com/package/react-top-loading-bar) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![npm download][download-image]][download-url]
+
+[download-image]: https://img.shields.io/npm/dm/react-top-loading-bar.svg
+[download-url]: https://npmjs.org/package/react-top-loading-bar
+
+[![react-top-loading-bar](https://nodei.co/npm/react-top-loading-bar.png)](https://npmjs.org/package/react-top-loading-bar)
+
+## Install
+
+- using npm
+
+```bash
+npm install --save react-top-loading-bar
+```
+# react-infinite-scroll-component [![npm](https://img.shields.io/npm/dt/react-infinite-scroll-component.svg?style=flat-square)](https://www.npmjs.com/package/react-infinite-scroll-component) [![npm](https://img.shields.io/npm/v/react-infinite-scroll-component.svg?style=flat-square)](https://www.npmjs.com/package/react-infinite-scroll-component)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+A component to make all your infinite scrolling woes go away with just 4.15 kB! `Pull Down to Refresh` feature
+added. An infinite-scroll that actually works and super-simple to integrate!
+
+## Install
+
+```bash
+  npm install --save react-infinite-scroll-component
+```
 ## Available Scripts
 
 In the project directory, you can run:
